@@ -68,7 +68,7 @@ class _CalculatorAppState extends State<CalculatorApp> {
                         input,
                         style: TextStyle(
                           fontSize: 48,
-                          color: Colors.white,
+                          color: Colors.white10,
                         ),
                       ),
                       SizedBox(
